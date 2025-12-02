@@ -99,3 +99,35 @@ SNIPE-DASHBOARD<br>
 ├── package-lock.json<br>
 ├── package.json<br>
 └── server.js<br>
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+
+<p align="center">
+  <img src="./screenshots/login.png" alt="Login Screen" width="800" />
+</p>
+
+---
+
+### 📊 Dashboard – Full View
+
+<p align="center">
+  <img src="./screenshots/dashboard.png" alt="Dashboard Screenshot" width="800" />
+</p>
+
+---
+
+### 📄 Dashboard – Paginated List View
+
+<p align="center">
+  <img src="./screenshots/dashboard-page-2.png" alt="Dashboard Page 2 Screenshot" width="800" />
+</p>
+
+---
+
+### 📦 Shipment Details View
+
+<p align="center">
+  <img src="./screenshots/shipment-details.png" alt="Shipment Details View" width="800" />
+</p>
