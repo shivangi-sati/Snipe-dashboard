@@ -11,10 +11,8 @@ const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
-// JSON server routes
 app.use("/api", middlewares, router);
 
-// Serve frontend
 app.use(express.static(path.join(__dirname, "../client/dist")));
 
 app.get("*", (req, res) => {
